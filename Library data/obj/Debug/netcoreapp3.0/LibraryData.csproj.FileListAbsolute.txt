@@ -1,0 +1,6 @@
+C:\Projects\Library\Library data\obj\Debug\netcoreapp3.0\LibraryData.csprojAssemblyReference.cache
+C:\Projects\Library\Library data\obj\Debug\netcoreapp3.0\LibraryData.csproj.CoreCompileInputs.cache
+C:\Projects\Library\Library data\obj\Debug\netcoreapp3.0\LibraryData.AssemblyInfoInputs.cache
+C:\Projects\Library\Library data\obj\Debug\netcoreapp3.0\LibraryData.AssemblyInfo.cs
+C:\Projects\Library\Library data\bin\Debug\netcoreapp3.0\LibraryData.deps.json
+C:\Projects\Library\Library data\bin\Debug\netcoreapp3.0\LibraryData.dll
